@@ -79,7 +79,6 @@ INDEX VERSION 1.131+C:\Projects\PPM-FS\.metadata\.plugins\org.eclipse.jdt.core
 4151428417.index
 3548218310.index
 2575034048.index
-3774133819.index
 1267657745.index
 1970228873.index
 913818934.index

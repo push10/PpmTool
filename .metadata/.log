@@ -90,3 +90,72 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 !MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-05-25 12:29:54.074
 !MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:19.381
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:19.383
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1a7d6ec8[org.springframework.tooling.boot.ls:1.15.0.202003180840(id=1014)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:19.387
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:19.418
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.270
+!MESSAGE Boot LS startup time from start to initialized: 2874ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.385
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YrPWHcmGisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.386
+!MESSAGE Sorting projects...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.387
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.389
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.389
+!MESSAGE Sorting projects... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.390
+!MESSAGE inside synchronized Subscriptions
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.391
+!MESSAGE subscribing to classpath changes: sts4.classpath.YrPWHcmG isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.393
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.396
+!MESSAGE subsribers = {sts4.classpath.YrPWHcmG=Send Classpath Notifications(918)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.396
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.397
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.398
+!MESSAGE Preparing classpath changed notification ppmtool
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.398
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YrPWHcmG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.399
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.407
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.412
+!MESSAGE buffering callback sts4.classpath.YrPWHcmG ppmtool false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.412
+!MESSAGE executing callback sts4.classpath.YrPWHcmG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 12:45:22.457
+!MESSAGE executing callback sts4.classpath.YrPWHcmG SUCCESS [done]
